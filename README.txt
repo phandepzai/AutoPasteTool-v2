@@ -11,8 +11,11 @@ Chọn tốc độ dán (ms) từ combobox, mặc định là 250ms.
 Bấm START:
 Khi bấm START, vùng dữ liệu sẽ bị khóa và dữ liệu được tách thành các dòng.
 
+Bấm F1:
+Nhấn phím F1 (toàn cục, dù ứng dụng không focus) để bắt đầu thao tác dán.
+
 Bấm ESC:
-Nhấn phím ESC (toàn cục, dù ứng dụng không focus) để bắt đầu hoặc dừng thao tác dán.
+Nhấn phím ESC (toàn cục, dù ứng dụng không focus) để dừng thao tác dán.
 
 Bấm EDIT:
 Bấm nút EDIT để mở khóa vùng dữ liệu và cho phép chỉnh sửa.
